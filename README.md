@@ -1,3 +1,7 @@
-### Hi there 👋
+<div align="center">
 
-https://user-images.githubusercontent.com/81728169/142795192-dcb97b7e-f40e-4619-ae07-1ed40b7993b6.mp4
+# Hello, I'm Mincheol👏
+
+<img src="https://upload3.inven.co.kr/upload/2021/05/30/bbs/i014757577923.gif" />
+
+</div>
