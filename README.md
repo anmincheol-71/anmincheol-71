@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-<div align="center">
-  <img scr = 'https://media5jvqbd.fmkorea.com/files/attach/new2/20210530/486616/7988770/3638626625/a2d47134fa933794f9d94feb1f39c01a.mp4?d'>
-</div>
+https://user-images.githubusercontent.com/81728169/142795192-dcb97b7e-f40e-4619-ae07-1ed40b7993b6.mp4
