@@ -3,7 +3,6 @@
 ### 🤖 About Me
 - **Aspiring Robotics & Embedded Systems Engineer**
 - 🎓 **상명대학교** 컴퓨터과학전공 (2027.02 졸업 예정)
-- 하드웨어와 소프트웨어의 경계에서 효율적인 제어 시스템을 설계합니다.
 
 ---
 
@@ -25,8 +24,7 @@
 ---
 
 ### ⌨️ Preference
-- **Tools:** `HHKB (Happy Hacking Keyboard)` & `Vim`
-- **Philosophy:** "Less but Better. Precision in Every Line."
+- **Tools:** `Vim`
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=anmincheol-71&show_icons=true&theme=blood&hide_border=true" />
